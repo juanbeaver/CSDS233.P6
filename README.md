@@ -20,3 +20,16 @@
 
 
 Time Spent: 1 hr (10% mark)
+
+## Apr. 24, 2:00 PM
+
+* Found a bug in my addEdge method that came from a helper method from my node class.&#x20;
+  * I was searching for a node with name x inside neighbors instead of the graph, which resulted in a nullpointerexception.
+* Wrote addEdges method
+* Wrote removeNode method
+  * removed the node from the arraylist and then iterated through the graph to remove any references to the node in all of the nodes neighbors list.&#x20;
+* Wrote printGraph()
+* Started writing read() method.
+  * Decided to use a buffered reader for each line, and then use the string split function to create a string array with all the node names.&#x20;
+  * I then used that array to first create the main node, and then added its edges with the addEdges function.
+*
