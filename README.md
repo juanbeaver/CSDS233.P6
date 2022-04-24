@@ -32,4 +32,5 @@ Time Spent: 1 hr (10% mark)
 * Started writing read() method.
   * Decided to use a buffered reader for each line, and then use the string split function to create a string array with all the node names.&#x20;
   * I then used that array to first create the main node, and then added its edges with the addEdges function.
-*
+
+Time Spent: 1 hr (50% mark)
