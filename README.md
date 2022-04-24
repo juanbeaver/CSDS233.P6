@@ -17,3 +17,6 @@
 
     * I chose to make it ensure that the "from" node exists, but if the "to" node does not exist, it creates it and calls addEdge again. Doing this allows to keep a structured graph and allows for the creation of new nodes through addEdges
 
+
+
+Time Spent: 1 hr (10% mark)
