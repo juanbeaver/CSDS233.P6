@@ -41,4 +41,6 @@ Time Spent: 1 hr (50% mark)
   * Wrote testing methods for all methods up to the read method.
 * Started working on the path searching methods
   * Struggled with getting the DFS method working correctly for a while.
-    *
+    * I have it to the point that it returns a somewhat correct path for longer paths. It is still including some dead end nodes that have been visited. And for shorter ones it just returns a alot of extra nodes.&#x20;
+
+Time Spent: 3 hr (Actual 50% mark)
