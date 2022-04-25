@@ -21,7 +21,7 @@
 
 Time Spent: 1 hr (10% mark)
 
-## Apr. 24, 2:00 PM
+## Apr. 24, 2:00PM
 
 * Found a bug in my addEdge method that came from a helper method from my node class.&#x20;
   * I was searching for a node with name x inside neighbors instead of the graph, which resulted in a nullpointerexception.
@@ -34,3 +34,11 @@ Time Spent: 1 hr (10% mark)
   * I then used that array to first create the main node, and then added its edges with the addEdges function.
 
 Time Spent: 1 hr (50% mark)
+
+## Apr. 24, 2022, 4:00PM
+
+* Started writing the GraphTester class methods.
+  * Wrote testing methods for all methods up to the read method.
+* Started working on the path searching methods
+  * Struggled with getting the DFS method working correctly for a while.
+    *
